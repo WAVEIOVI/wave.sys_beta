@@ -1,0 +1,18 @@
+{
+  "nav": {
+    "home": "Accueil",
+    "dashboard": "Docs Hub",
+    "settings": "Paramètres",
+    "login": "Connexion",
+    "logout": "Déconnexion"
+  },
+  "hero": {
+    "title": "wave.sys",
+    "subtitle": "Système de gestion SS PLUS. Documentation complète et procédures pour toutes les opérations de l'entreprise.",
+    "cta": "Connexion"
+  },
+  "theme": {
+    "light": "Clair",
+    "dark": "Sombre"
+  }
+}

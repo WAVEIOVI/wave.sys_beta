@@ -1,0 +1,18 @@
+{
+  "nav": {
+    "home": "Home",
+    "dashboard": "Docs Hub",
+    "settings": "Settings",
+    "login": "Login",
+    "logout": "Logout"
+  },
+  "hero": {
+    "title": "wave.sys",
+    "subtitle": "SS PLUS Management System. Comprehensive documentation and procedures for all company operations.",
+    "cta": "Login"
+  },
+  "theme": {
+    "light": "Light",
+    "dark": "Dark"
+  }
+}
