@@ -22,7 +22,7 @@
 ---
 
 
-# {{sales_customer.section_01.title}}
+# {{sales_customer.section_01.title}}  🎯
 
 ## {{sales_customer.section_01.1_1_lead_sources.title}}
 
